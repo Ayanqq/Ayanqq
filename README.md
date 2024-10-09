@@ -4,13 +4,17 @@
 
 <p align="left">My name is Ayan and im frontend developer, from Almaty, Kazakhstan!</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ayanqq&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayanqq&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h2 align='center'> About me </h2>
+
+<ul>
+  <li>✨ Creating bugs since 2020</li>
+  <li>📚 I'm currently learning new technologies, working on my portfolio, and looking for a job 💼</li>
+  <li>🎯 Goals: land my first frontend developer job and dive deeper into development 🚀</li>
+  <li>🎶 And... I love listening to music, playing dota, and enjoying life 😄</li>
+</ul>
 
 ###
-<h2 align="center">im working with...</h2>
+<h2 align="center">working with...</h2>
 
 ###
 
@@ -50,7 +54,7 @@
 
 ###
 
-<h2 align="center">im sitting in...</h2>
+<h2 align="center">sitting in...</h2>
 
 <div align="center">
   <a href="www.linkedin.com/in/ayanqq" target="_blank">
@@ -67,7 +71,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/ayanqq/ayanqq/output/snake.svg" alt="Snake animation" />
 
 ###
