@@ -1,10 +1,10 @@
-<h3 align="center">HELLO FRIEND!</h3>
+<h1 align="left">HELLO FRIEND!</h3>
 
 ###
 
 <p align="left">My name is Ayan and im frontend developer, from Almaty, Kazakhstan!</p>
 
-<h2 align='center'> About me </h2>
+<h2 align='left'> About me </h2>
 
 <ul>
   <li>✨ Creating bugs since 2020</li>
@@ -14,11 +14,11 @@
 </ul>
 
 ###
-<h2 align="center">working with...</h2>
+<h2 align="left">working with...</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -54,9 +54,9 @@
 
 ###
 
-<h2 align="center">sitting in...</h2>
+<h2 align="left">sitting in...</h2>
 
-<div align="center">
+<div align="left">
   <a href="www.linkedin.com/in/ayanqq" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
