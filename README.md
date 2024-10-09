@@ -1,6 +1,8 @@
-<h3 align="center">Hello, wanderer! 👋<br>Welcome to my Github profile! 🎉<br>My name is Ayan, I'm a young frontend dev. 💻<br>Here you can check out my projects, my skills, and some quick info about me. 🚀✨</h3>
+<h3 align="center">HELLO FRIEND!</h3>
 
 ###
+
+<p align="left">My name is Ayan and im frontend developer, from Almaty, Kazakhstan!</p>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayanqq&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
@@ -8,8 +10,7 @@
 </div>
 
 ###
-
-<img align="right" height="122" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="center">im working with...</h2>
 
 ###
 
@@ -48,6 +49,8 @@
 </div>
 
 ###
+
+<h2 align="center">im sitting in...</h2>
 
 <div align="center">
   <a href="www.linkedin.com/in/ayanqq" target="_blank">
