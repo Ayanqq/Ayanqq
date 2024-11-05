@@ -10,7 +10,7 @@
   <li>✨ Creating bugs since 2020</li>
   <li>📚 I'm currently learning new technologies, working on my portfolio, and looking for a job 💼</li>
   <li>🎯 Goals: land my first frontend developer job and dive deeper into development 🚀</li>
-  <li>🎶 And... I love listening to music, playing dota, and enjoying life 😄</li>
+  <li>🎶 And... I love listening to music, and enjoying life 😄</li>
 </ul>
 
 ###
