@@ -4,15 +4,6 @@
 
 <p align="left">My name is Ayan and im frontend developer, from Almaty, Kazakhstan!</p>
 
-<h2 align='left'> About me </h2>
-
-<ul>
-  <li>✨ Creating bugs since 2020</li>
-  <li>📚 I'm currently learning new technologies, working on my portfolio, and looking for a job 💼</li>
-  <li>🎯 Goals: land my first frontend developer job and dive deeper into development 🚀</li>
-  <li>🎶 And... I love listening to music, and enjoying life 😄</li>
-</ul>
-
 ###
 <h2 align="left">working with...</h2>
 
